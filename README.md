@@ -1,6 +1,7 @@
 - 👋 Hola, I’m @jaswanthjoe
-- 👀 I’m interested in web3
-- 🌱 I’m currently working on Rust and Substrate 
+- 👀 Interested in web3
+- 🌱 Currently working on Rust and Substrate 
+-   Fun fact is to code when high on music
 
 <!---
 jaswanthjoe/jaswanthjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
