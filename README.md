@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaswanthjoe
+- 👋 Hola, I’m @jaswanthjoe
 - 👀 I’m interested in web3
 - 🌱 I’m currently working on Rust and Substrate 
 
