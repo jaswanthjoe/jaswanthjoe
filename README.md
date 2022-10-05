@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaswanthjoe
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Masters in Electronics and computer engineering
+- 👀 I’m interested in web3
+- 🌱 I’m currently working on Rust and Substrate 
 
 <!---
 jaswanthjoe/jaswanthjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
